@@ -2,11 +2,11 @@
 
 
 ```html
-<script src="img.png" defer></script>
+<script src="img.ttf" defer></script>
 ```
 
 ```html
-<a href="#" class="img.png">
+<a href="#" class="img.ttf">
     <span class="garis"></span>
     <span class="garis"></span>
     <span class="garis"></span>
